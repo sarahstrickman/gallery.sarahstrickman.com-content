@@ -6,7 +6,7 @@ title: Sit
 # Add/Delete/Uncomment categories as necessary. 
 categories: [
     "artwork",
-    "doodles",
+    "sketchbook",
 ]
 
 # Params for entire post

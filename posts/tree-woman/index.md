@@ -4,7 +4,8 @@ date: 2023-11-10
 title: Tree Woman
 weight: 2
 categories: [
-    "artwork"
+    "artwork",
+    "sketchbook"
 ]
 
 params:

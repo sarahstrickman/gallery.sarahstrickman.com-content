@@ -7,6 +7,7 @@ title: Root Canal Christmas Card
 # Add/Delete/Uncomment categories as necessary. 
 categories: [
     "artwork",
+    "commission"
 ]
 
 # Params for entire post

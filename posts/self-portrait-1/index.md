@@ -4,7 +4,7 @@ date: 2023-11-10
 title: Self Portrait 1
 weight: 2
 categories: [
-  "artwork",
+  "sketchbook",
 ]
 
 params:
